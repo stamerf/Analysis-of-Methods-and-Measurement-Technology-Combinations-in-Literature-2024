@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Stamer
+    given-names: Florian
+    orcid: https://orcid.org/0000-0002-9704-8611
+title: "Analysis of Methods and Measurement Technology Combinations in Literature (2024)"
+version: 1.0
+date-released: 2025-09-01
